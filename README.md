@@ -39,4 +39,7 @@ list drugs
 --- "some people have died due to cock, but that's not coca cola."
 -- "shit"
 ```
-
+# mimetypes
+.er
+.fuckery
+.doo
