@@ -1,4 +1,4 @@
-# fuckerydoo
+# <img src="icon.png" width="100px"> fuckerydoo
 The worst data format. For me, but not for thee. Inspired by protobuf and Scratch (for Lego-like "programming").
 
 Written in Javascript.
