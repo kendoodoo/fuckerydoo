@@ -7,6 +7,7 @@ Written in Javascript.
 String (cheese???):
 ```
 @ This is a comment.
+@ variable value
 uhhuh "string thing"
 
 ```
